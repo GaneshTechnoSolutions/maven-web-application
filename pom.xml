@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.201.119.217:8081/GaneshTechnologies/repository/maven-web-project/</url>
+	      <url>http://ec2-34-216-52-4.us-west-2.compute.amazonaws.com:8081/GaneshTechnologies/repository/maven-web-project/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.201.119.217:8081/GaneshTechnologies/repository/maven-web-snapshot/</url>
+	      <url>http://ec2-34-216-52-4.us-west-2.compute.amazonaws.com:8081/GaneshTechnologies/repository/maven-web-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
