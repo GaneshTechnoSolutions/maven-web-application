@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.128.112:8081/repository/maven-astrazenic-project/</url>
+	      <url>http://15.206.128.112:8081/repository/maven-web-application/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.128.112:8081/repository/maven-astrazenic-project/</url>
+	      <name>Mithun Technologies Snapshot Nexus Repository</name>
+	      <url>http://15.206.128.112:8081/repository/maven-web-application-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
